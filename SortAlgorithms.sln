@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiralamaAlgoritması", "SiralamaAlgoritması\SiralamaAlgoritması.csproj", "{E582FD39-F1C6-4445-AC82-D5F707843074}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeAlgoritması", "MergeAlgoritması\MergeAlgoritması.csproj", "{8781ABDC-22AB-4ABF-B1C0-2C68F8F27244}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayiListesiOlusturLibrary", "SayiListesiOlusturLibrary\SayiListesiOlusturLibrary.csproj", "{AD4D2ED1-F2FA-4F42-A8D1-5BD14CD61DE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{886D134A-A5F6-42A0-9E7A-D306AC11832C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortAlgorithm", "QuickSortAlgorithm\QuickSortAlgorithm.csproj", "{AEED6A69-EFC8-49B5-AEDB-C240E9A1DBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E582FD39-F1C6-4445-AC82-D5F707843074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E582FD39-F1C6-4445-AC82-D5F707843074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E582FD39-F1C6-4445-AC82-D5F707843074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E582FD39-F1C6-4445-AC82-D5F707843074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8781ABDC-22AB-4ABF-B1C0-2C68F8F27244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8781ABDC-22AB-4ABF-B1C0-2C68F8F27244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8781ABDC-22AB-4ABF-B1C0-2C68F8F27244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8781ABDC-22AB-4ABF-B1C0-2C68F8F27244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4D2ED1-F2FA-4F42-A8D1-5BD14CD61DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4D2ED1-F2FA-4F42-A8D1-5BD14CD61DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4D2ED1-F2FA-4F42-A8D1-5BD14CD61DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4D2ED1-F2FA-4F42-A8D1-5BD14CD61DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886D134A-A5F6-42A0-9E7A-D306AC11832C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886D134A-A5F6-42A0-9E7A-D306AC11832C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886D134A-A5F6-42A0-9E7A-D306AC11832C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886D134A-A5F6-42A0-9E7A-D306AC11832C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEED6A69-EFC8-49B5-AEDB-C240E9A1DBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEED6A69-EFC8-49B5-AEDB-C240E9A1DBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEED6A69-EFC8-49B5-AEDB-C240E9A1DBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEED6A69-EFC8-49B5-AEDB-C240E9A1DBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8443955-61E4-4BA1-A8E0-E280EAEA5541}
+	EndGlobalSection
+EndGlobal
